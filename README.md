@@ -1,3 +1,5 @@
+Thank you for checking out my project! Connect with me on LinkedIn! https://www.linkedin.com/in/ross-clettenberg/
+
 # Financial Products App
 
 Financial Products App is a simple C# console application developed as an exercise in string formatting, padding, and string interpolation. The application simulates a marketing message for a sales and marketing company's newest investment products, providing personalized form letters to the company's existing clients. It compares their current portfolio's returns with projected returns from new financial products.
